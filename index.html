@@ -365,13 +365,13 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{bo
     </div>
   
 <script>window.ZAPPY_PRODUCTS_LISTING_PATH = "/courses";</script>
-<script>window.ZAPPY_WEBSITE_ID = "c461a66a-7840-4424-8f79-19cb07627f28";window.ZAPPY_API_BASE = "https://api.zappy5.com"</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
+<script>window.ZAPPY_WEBSITE_ID = "c461a66a-7840-4424-8f79-19cb07627f28";window.ZAPPY_API_BASE = (window.location.pathname.includes('/preview') ? window.location.origin : "https://api.zappy5.com");</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
   <nav class="navbar" dir="rtl">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
-    <svg style="display:block !important" class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
+    <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
       <path d="M3 12h18M3 6h18M3 18h18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
     </svg>
-    <svg class="close-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" style="display:none !important">
+    <svg class="close-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" style="display: none;">
       <path d="M18 6L6 18M6 6l12 12" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
     </svg>
   </button>
@@ -878,9 +878,9 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{bo
 </script>
   
   <main id="main">
-    <section data-band-index="0" class="index-hero-section" data-layout-spec="דף הבית-hero" data-hero-type="fullscreen-scrim">
+    <section data-band-index="0" class="index-hero-section" data-layout-spec="דף הבית-hero" data-hero-type="fullscreen-scrim" id="index-hero-section">
   <!-- Background Image -->
-  <img loading="eager" fetchpriority="high" data-hero-bg="true" data-placeholder="index-hero-image-1" data-context="A cinematic, dark laboratory-like environment with abstract glowing cyan sound-wave light trails, a subtle silhouette of a vintage microphone on the right side, and a deep midnight blue atmosphere with soft lime green accent sparks. The scene should feel focused, futuristic, and family-friendly, not childish." width="1200" height="600" src="/assets/site-index-hero-image-1.webp" alt="סביבת למידה קולית עתידנית" class="hero-bg-image" decoding="async" />
+  <img loading="eager" fetchpriority="high" data-hero-bg="true" data-placeholder="index-hero-image-1" data-context="A cinematic, dark laboratory-like environment with abstract glowing cyan sound-wave light trails, a subtle silhouette of a vintage microphone on the right side, and a deep midnight blue atmosphere with soft lime green accent sparks. The scene should feel focused, futuristic, and family-friendly, not childish." width="1200" height="600" src="/assets/site-index-hero-image-1.webp" alt="סביבת למידה קולית עתידנית" class="hero-bg-image" data-hero-background="true" data-element-type="image" data-element-id="img-1784032957868-s7827cy6h" style="pointer-events: auto !important;" decoding="async" />
 
   <!-- Scrim Overlay -->
   <div class="hero-scrim" aria-hidden="true"></div>
@@ -892,18 +892,17 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{bo
   <div class="hero-overlay-content">
     <h1 class="hero-headline">ללמוד להגיד יפיפ<br />במהירות ובמקצועיות</h1>
     
-    <h3 class="hero-subtitle">
-      לא אוריגמי — זאת מיומנות קולית ייחודית שכל אחד יכול לרכוש
-    </h3>
+    <h3 class="hero-subtitle" style>
+      ליפיפ זאת מיומנות קולית ייחודית שכל אחד יכול לרכוש כאן בקורס!<br /></h3>
     
     <div class="hero-cta-group">
-      <a href="#register" class="btn-primary hero-btn">
+      <a href="#register" class="btn-primary hero-btn" data-element-type="button" data-element-id="btn-1784032957856-aij3yi32o" data-native-element="true">
         <span>להרשמה ללימודים</span>
         <svg data-element-type="icon" data-icon-type="svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
           <path d="M5 12h14"/><path d="M12 5l7 7-7 7"/>
         </svg>
       </a>
-      <a href="#testimonials" class="btn-secondary hero-btn">
+      <a href="#testimonials" class="btn-secondary hero-btn" data-element-type="button" data-element-id="btn-1784032957856-9i4e9zeg4" data-native-element="true">
         <span>לקרוא המלצות אמיתיות</span>
         <svg data-element-type="icon" data-icon-type="svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
           <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/><polyline points="10 9 9 9 8 9"/>
