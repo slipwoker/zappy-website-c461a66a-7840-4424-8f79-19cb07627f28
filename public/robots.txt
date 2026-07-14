@@ -50,4 +50,4 @@ Allow: /
 User-agent: MistralAI-User
 Allow: /
 
-Sitemap: https://example.com/sitemap.xml
+Sitemap: https://yefifeida-learn-to-yefif-and-a.zappy5.app/sitemap.xml

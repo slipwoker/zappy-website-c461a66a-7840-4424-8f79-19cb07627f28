@@ -7,85 +7,85 @@
 ## Pages
 
 ### דף הבית
-https://example.com
+https://yefifeida-learn-to-yefif-and-a.zappy5.app
 מחפשים פעילות חינוכית לילדים בבית שהיא גם מצחיקה וגם ממכרת? הצטרפו לאלפי לומדים מרוצים וגלו איך לבטא &#39;יפיפ&#39; במהירות ובמקצועיות. זו לא אוריגמי, זו אמנות דיבור!
 
 ### הרשמה
-https://example.com/registration
+https://yefifeida-learn-to-yefif-and-a.zappy5.app/registration
 אל תפספסו את ההזדמנות להפוך למאסטרים של יפיופ! הרשמה מהירה לקורס הדיגיטלי שלנו תפתח לכם דלת לעולם של כיף משפחתי וצחוק מתגלגל. מקומכם שמור!
 
 ### המלצות
-https://example.com/recommendations
+https://yefifeida-learn-to-yefif-and-a.zappy5.app/recommendations
 תראו מה קורה כשמשפחות מגלות את יפיפידע! עדויות אמיתיות של לומדים שהפכו את אמירת &#39;יפיפ&#39; לכוכב הבית. לחצו לקרוא איך גם אתם יכולים להצטרף לחגיגה.
 
 ### אודות השיטה
-https://example.com/method
+https://yefifeida-learn-to-yefif-and-a.zappy5.app/method
 צללו לעומק השיטה הייחודית שלנו שלימדה אלפים איך לומר &#39;יפיפ&#39; כמו מקצוענים. גלו את המדע, המשחק והקסם שמאחורי הפעילות החינוכית המושלמת לילדים בבית.
 
 ### צור קשר
-https://example.com/contact
+https://yefifeida-learn-to-yefif-and-a.zappy5.app/contact
 רוצים לדעת עוד על קורס יפיופ בעברית או סתם לשתף חוויה מצחיקה? אנחנו כאן לכל שאלה! צרו קשר ונחזור אליכם במהירות עם חיוך גדול והמון ידע.
 
 ### Cart
-https://example.com/cart
+https://yefifeida-learn-to-yefif-and-a.zappy5.app/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://example.com/checkout
+https://yefifeida-learn-to-yefif-and-a.zappy5.app/checkout
 תשלום
 
 ### Login
-https://example.com/login
+https://yefifeida-learn-to-yefif-and-a.zappy5.app/login
 התחברות לקוחות
 
 ### Account
-https://example.com/account
+https://yefifeida-learn-to-yefif-and-a.zappy5.app/account
 החשבון שלי
 
 ### Order Success
-https://example.com/order-success
+https://yefifeida-learn-to-yefif-and-a.zappy5.app/order-success
 תודה שנרשמת לקורס
 
-### תודה - ההודעה התקבלה
-https://example.com/thank-you
-יפיפידע: ללמוד ליפיפ וגם לקבל ידע - תודה - ההודעה התקבלה
-
 ### Courses
-https://example.com/courses
+https://yefifeida-learn-to-yefif-and-a.zappy5.app/courses
 Browse all available courses.
 
 ### Course Category
-https://example.com/category/:slug
+https://yefifeida-learn-to-yefif-and-a.zappy5.app/category/:slug
 Browse courses in this category.
 
 ### Course Detail
-https://example.com/courses/:slug
+https://yefifeida-learn-to-yefif-and-a.zappy5.app/courses/:slug
 Course details and curriculum.
 
 ### Lesson
-https://example.com/lesson/:lessonId
+https://yefifeida-learn-to-yefif-and-a.zappy5.app/lesson/:lessonId
 Lesson player.
 
 ### My Learning
-https://example.com/my-learning
+https://yefifeida-learn-to-yefif-and-a.zappy5.app/my-learning
 Your enrolled courses and progress.
 
 ### Certificate
-https://example.com/certificate/:code
+https://yefifeida-learn-to-yefif-and-a.zappy5.app/certificate/:code
 Verify a course completion certificate.
+
+### תודה - ההודעה התקבלה
+https://yefifeida-learn-to-yefif-and-a.zappy5.app/thank-you
+יפיפידע: ללמוד ליפיפ וגם לקבל ידע - תודה - ההודעה התקבלה
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://yefifeida-learn-to-yefif-and-a.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://yefifeida-learn-to-yefif-and-a.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://yefifeida-learn-to-yefif-and-a.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -114,8 +114,8 @@ Education & Training
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
-- Products (JSON): https://example.com/products.json
-- Products (Google Merchant RSS): https://example.com/product-feed.xml
+- Sitemap (XML): https://yefifeida-learn-to-yefif-and-a.zappy5.app/sitemap.xml
+- Robots: https://yefifeida-learn-to-yefif-and-a.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://yefifeida-learn-to-yefif-and-a.zappy5.app/llms-full.txt
+- Products (JSON): https://yefifeida-learn-to-yefif-and-a.zappy5.app/products.json
+- Products (Google Merchant RSS): https://yefifeida-learn-to-yefif-and-a.zappy5.app/product-feed.xml
