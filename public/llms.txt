@@ -1,0 +1,121 @@
+# יפיפידע: ללמוד ליפיפ וגם לקבל ידע — Generative Engine Optimization Map
+
+> יפיפידע is a unique and playful educational platform dedicated to teaching people how to say the word 'יפיפ' (Yafif) quickly and professionally — emphasizing that this is NOT origami but a distinct verbal skill. The brand has a fun, family-friendly personality with real community testimonials from satisfied learners. The platform focuses on registration-based learning with a strong trust-building element through authentic user reviews, and aims to create a lively, credible community around this one-of-a-kind skill.
+
+---
+
+## Pages
+
+### דף הבית
+https://-c461a66a.zappy5.app
+מחפשים פעילות חינוכית לילדים בבית שהיא גם מצחיקה וגם ממכרת? הצטרפו לאלפי לומדים מרוצים וגלו איך לבטא &#39;יפיפ&#39; במהירות ובמקצועיות. זו לא אוריגמי, זו אמנות דיבור!
+
+### הרשמה
+https://-c461a66a.zappy5.app/registration
+אל תפספסו את ההזדמנות להפוך למאסטרים של יפיופ! הרשמה מהירה לקורס הדיגיטלי שלנו תפתח לכם דלת לעולם של כיף משפחתי וצחוק מתגלגל. מקומכם שמור!
+
+### המלצות
+https://-c461a66a.zappy5.app/recommendations
+תראו מה קורה כשמשפחות מגלות את יפיפידע! עדויות אמיתיות של לומדים שהפכו את אמירת &#39;יפיפ&#39; לכוכב הבית. לחצו לקרוא איך גם אתם יכולים להצטרף לחגיגה.
+
+### אודות השיטה
+https://-c461a66a.zappy5.app/method
+צללו לעומק השיטה הייחודית שלנו שלימדה אלפים איך לומר &#39;יפיפ&#39; כמו מקצוענים. גלו את המדע, המשחק והקסם שמאחורי הפעילות החינוכית המושלמת לילדים בבית.
+
+### צור קשר
+https://-c461a66a.zappy5.app/contact
+רוצים לדעת עוד על קורס יפיופ בעברית או סתם לשתף חוויה מצחיקה? אנחנו כאן לכל שאלה! צרו קשר ונחזור אליכם במהירות עם חיוך גדול והמון ידע.
+
+### Cart
+https://-c461a66a.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-c461a66a.zappy5.app/checkout
+תשלום
+
+### Login
+https://-c461a66a.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-c461a66a.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-c461a66a.zappy5.app/order-success
+תודה שנרשמת לקורס
+
+### תודה - ההודעה התקבלה
+https://-c461a66a.zappy5.app/thank-you
+יפיפידע: ללמוד ליפיפ וגם לקבל ידע - תודה - ההודעה התקבלה
+
+### Courses
+https://-c461a66a.zappy5.app/courses
+Browse all available courses.
+
+### Course Category
+https://-c461a66a.zappy5.app/category/:slug
+Browse courses in this category.
+
+### Course Detail
+https://-c461a66a.zappy5.app/courses/:slug
+Course details and curriculum.
+
+### Lesson
+https://-c461a66a.zappy5.app/lesson/:lessonId
+Lesson player.
+
+### My Learning
+https://-c461a66a.zappy5.app/my-learning
+Your enrolled courses and progress.
+
+### Certificate
+https://-c461a66a.zappy5.app/certificate/:code
+Verify a course completion certificate.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-c461a66a.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-c461a66a.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-c461a66a.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About יפיפידע: ללמוד ליפיפ וגם לקבל ידע
+יפיפידע is a unique and playful educational platform dedicated to teaching people how to say the word 'יפיפ' (Yafif) quickly and professionally — emphasizing that this is NOT origami but a distinct verbal skill. The brand has a fun, family-friendly personality with real community testimonials from satisfied learners. The platform focuses on registration-based learning with a strong trust-building element through authentic user reviews, and aims to create a lively, credible community around this one-of-a-kind skill.
+
+## Target Audience
+- כל גיל - משפחות, ילדים ומבוגרים המעוניינים ללמוד את אמנות אמירת יפיפ
+- חובבי שפות
+- מקצועני דיבור בציבור
+- משפחות ילדים ומבוגרים שמעונינים ליפיפ
+
+## Industry
+Education & Training
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-c461a66a.zappy5.app/sitemap.xml
+- Robots: https://-c461a66a.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-c461a66a.zappy5.app/llms-full.txt
+- Products (JSON): https://-c461a66a.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-c461a66a.zappy5.app/product-feed.xml
